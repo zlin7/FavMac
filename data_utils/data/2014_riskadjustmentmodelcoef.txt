@@ -1,0 +1,320 @@
+Disease Coefficients 
+Description Label
+Community 
+Institutional
+HCC1
+HIV/AIDS
+0.470
+1.904
+HCC2
+Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock
+0.535
+0.575
+HCC6
+Opportunistic Infections
+0.440
+0.344
+HCC8
+Metastatic Cancer and Acute Leukemia
+2.484
+1.203
+HCC9
+Lung and Other Severe Cancers
+0.973
+0.674
+HCC10
+Lymphoma and Other Cancers
+0.672
+0.412
+HCC11
+Colorectal, Bladder, and Other Cancers
+0.317
+0.296
+HCC12
+Breast, Prostate, and Other Cancers and Tumors
+0.154
+0.198
+HCC17
+Diabetes with Acute Complications
+0.368
+0.474
+HCC18
+Diabetes with Chronic Complications
+0.368
+0.474
+HCC19
+Diabetes without Complication
+0.118
+0.182
+HCC21
+Protein-Calorie Malnutrition
+0.713
+0.399
+HCC22
+Morbid Obesity
+0.365
+0.579
+HCC23
+Other Significant Endocrine and Metabolic Disorders
+0.245
+0.282
+HCC27
+End-Stage Liver Disease
+0.923
+1.083
+HCC28
+Cirrhosis of Liver
+0.399
+0.351
+HCC29
+Chronic Hepatitis
+0.251
+0.351
+HCC33
+Intestinal Obstruction/Perforation
+0.310
+0.384
+HCC34
+Chronic Pancreatitis
+0.286
+0.095
+HCC35
+Inflammatory Bowel Disease
+0.302
+0.318
+HCC39
+Bone/Joint/Muscle Infections/Necrosis
+0.498
+0.340
+HCC40
+Rheumatoid Arthritis and Inflammatory Connective Tissue Disease
+0.374
+0.351
+HCC46
+Severe Hematological Disorders
+1.136
+0.794
+HCC47
+Disorders of Immunity
+0.521
+0.519
+HCC48
+Coagulation Defects and Other Specified Hematological Disorders
+0.252
+0.164
+HCC54
+Drug/Alcohol Psychosis
+0.420
+0.053
+HCC55
+Drug/Alcohol Dependence
+0.420
+0.053
+HCC57
+Schizophrenia
+0.490
+0.311
+HCC58
+Major Depressive, Bipolar, and Paranoid Disorders
+0.330
+0.311
+HCC70
+Quadriplegia
+1.234
+0.650
+HCC71
+Paraplegia
+1.052
+0.539
+HCC72
+Spinal Cord Disorders/Injuries
+0.509
+0.280
+HCC73
+Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease
+0.958
+0.367
+HCC74
+Cerebral Palsy
+0.045
+-
+HCC75
+Myasthenia Gravis/Myoneural Disorders and Guillain-Barre Syndrome/Inflammatory and Toxic Neuropathy
+0.408
+0.300
+HCC76
+Muscular Dystrophy
+0.565
+0.215
+HCC77
+Multiple Sclerosis
+0.556
+-
+HCC78
+Parkinson's and Huntington's Diseases
+0.691
+0.173
+HCC79
+Seizure Disorders and Convulsions
+0.284
+0.144
+HCC80
+Coma, Brain Compression/Anoxic Damage
+0.570
+0.104
+HCC82
+Respirator Dependence/Tracheostomy Status
+1.520
+1.769
+HCC83
+Respiratory Arrest
+0.802
+1.169
+HCC84
+Cardio-Respiratory Failure and Shock
+0.329
+0.442
+HCC85
+Congestive Heart Failure
+0.368
+0.229
+HCC86
+Acute Myocardial Infarction
+0.275
+0.515
+HCC87
+Unstable Angina and Other Acute Ischemic Heart Disease
+0.258
+0.515
+HCC88
+Angina Pectoris
+0.141
+0.474
+HCC96
+Specified Heart Arrhythmias
+0.295
+0.262
+HCC99
+Cerebral Hemorrhage
+0.339
+0.216
+HCC100
+Ischemic or Unspecified Stroke
+0.317
+0.216
+HCC103
+Hemiplegia/Hemiparesis
+0.581
+0.061
+HCC104
+Monoplegia, Other Paralytic Syndromes
+0.396
+0.061
+HCC106
+Atherosclerosis of the Extremities with Ulceration or Gangrene
+1.413
+0.886
+HCC107
+Vascular Disease with Complications
+0.410
+0.301
+HCC108
+Vascular Disease
+0.299
+0.107
+HCC110
+Cystic Fibrosis
+0.417
+0.364
+HCC111
+Chronic Obstructive Pulmonary Disease
+0.346
+0.364
+HCC112
+Fibrosis of Lung and Other Chronic Lung Disorders
+0.274
+0.260
+HCC114
+Aspiration and Specified Bacterial Pneumonias
+0.672
+0.285
+HCC115
+Pneumococcal Pneumonia, Empyema, Lung Abscess
+0.200
+0.285
+HCC122
+Proliferative Diabetic Retinopathy and Vitreous Hemorrhage
+0.203
+0.433
+HCC124
+Exudative Macular Degeneration
+0.335
+0.166
+HCC134
+Dialysis Status
+0.476
+0.509
+HCC135
+Acute Renal Failure
+0.476
+0.509
+HCC136
+Chronic Kidney Disease (Stage 5)
+0.224
+0.509
+HCC137
+Chronic Kidney Disease, Severe (Stage 4)
+0.224
+0.294
+HCC157
+Pressure Ulcer of Skin with Necrosis Through to Muscle, Tendon, or Bone
+2.488
+1.050
+HCC158
+Pressure Ulcer of Skin with Full Thickness Skin Loss
+1.338
+0.435
+HCC161
+Chronic Ulcer of Skin, Except Pressure
+0.536
+0.311
+HCC162
+Severe Skin Burn or Condition
+0.411
+0.327
+HCC166
+Severe Head Injury
+0.570
+0.104
+HCC167
+Major Head Injury
+0.163
+-
+HCC169
+Vertebral Fractures without Spinal Cord Injury
+0.497
+0.228
+HCC170
+Hip Fracture/Dislocation
+0.446
+-
+HCC173
+Traumatic Amputations and Complications
+0.265
+0.122
+HCC176
+Complications of Specified Implanted Device or Graft
+0.566
+0.522
+HCC186
+Major Organ Transplant or Replacement Status
+0.891
+0.515
+HCC188
+Artificial Openings for Feeding or Elimination
+0.651
+0.594
+HCC189
+Amputation Status, Lower Limb/Amputation Complications
+0.779
+0.468

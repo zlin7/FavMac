@@ -1,0 +1,924 @@
+HCC or RXC No. 
+Factor 
+Platinum 
+Gold 
+Silver 
+Bronze 
+Catastrophic
+HCC001
+HIV/AIDS
+1.520
+1.379
+1.282
+1.212
+1.210
+HCC002
+Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock
+7.045
+6.891
+6.847
+6.864
+6.867
+HCC003
+Central Nervous System Infections, Except Viral Meningitis
+5.927
+5.857
+5.833
+5.835
+5.835
+HCC004
+Viral or Unspecified Meningitis
+5.072
+4.918
+4.820
+4.718
+4.716
+HCC006
+Opportunistic Infections
+6.319
+6.275
+6.237
+6.187
+6.185
+HCC008
+Metastatic Cancer
+22.979
+22.560
+22.379
+22.335
+22.336
+HCC009
+Lung, Brain, and Other Severe Cancers, Including Pediatric Acute Lymphoid Leukemia
+13.282
+12.979
+12.825
+12.743
+12.742
+HCC010
+Non-Hodgkin Lymphomas and Other Cancers and Tumors
+5.575
+5.376
+5.248
+5.144
+5.141
+HCC011
+Colorectal, Breast (Age < 50), Kidney, and Other Cancers
+3.845
+3.648
+3.517
+3.409
+3.405
+HCC012
+Breast (Age 50+) and Prostate Cancer, Benign/Uncertain Brain Tumors, and Other Cancers and Tumors
+2.604
+2.457
+2.350
+2.254
+2.251
+HCC013
+Thyroid Cancer, Melanoma, Neurofibromatosis, and Other Cancers and Tumors
+1.132
+1.017
+0.903
+0.780
+0.775
+HCC018
+Pancreas Transplant Status
+2.006
+1.955
+1.933
+1.932
+1.933
+HCC019
+Diabetes with Acute Complications
+0.427
+0.360
+0.299
+0.243
+0.240
+HCC020
+Diabetes with Chronic Complications
+0.427
+0.360
+0.299
+0.243
+0.240
+HCC021
+Diabetes without Complication
+0.427
+0.360
+0.299
+0.243
+0.240
+HCC022
+Type 1 Diabetes Mellitus, add-on to Diabetes HCCs 19-21
+0.384
+0.350
+0.319
+0.257
+0.255
+HCC023
+Protein-Calorie Malnutrition
+10.719
+10.711
+10.746
+10.828
+10.831
+HCC026
+Mucopolysaccharidosis
+29.195
+29.017
+28.940
+28.930
+28.931
+HCC027
+Lipidoses and Glycogenosis
+29.195
+29.017
+28.940
+28.930
+28.931
+HCC029
+Amyloidosis, Porphyria, and Other Metabolic Disorders
+7.748
+7.653
+7.595
+7.554
+7.553
+HCC030
+Adrenal, Pituitary, and Other Significant Endocrine Disorders
+1.789
+1.713
+1.648
+1.584
+1.582
+HCC034
+Liver Transplant Status/Complications
+9.695
+9.633
+9.608
+9.605
+9.604
+HCC035_17
+Acute Liver Failure/Disease, Including Neonatal Hepatitis
+9.532
+9.480
+9.468
+9.490
+9.489
+HCC035_2
+Chronic Liver Failure/End-Stage Liver Disorders
+3.107
+2.965
+2.901
+2.873
+2.872
+HCC036
+Cirrhosis of Liver
+1.038
+0.951
+0.885
+0.819
+0.816
+HCC037_1
+Chronic Viral Hepatitis C
+0.871
+0.785
+0.717
+0.653
+0.651
+HCC037_2
+Chronic Hepatitis, Except Chronic Viral Hepatitis C
+0.871
+0.785
+0.717
+0.653
+0.651
+HCC041
+Intestine Transplant Status/Complications
+33.660
+33.619
+33.587
+33.545
+33.545
+HCC042
+Peritonitis/Gastrointestinal Perforation/Necrotizing Enterocolitis
+8.835
+8.653
+8.577
+8.561
+8.562
+HCC045
+Intestinal Obstruction
+5.241
+5.066
+4.982
+4.928
+4.927
+HCC046
+Chronic Pancreatitis
+3.546
+3.407
+3.355
+3.341
+3.342
+HCC047
+Acute Pancreatitis
+3.034
+2.855
+2.755
+2.665
+2.664
+HCC048
+Inflammatory Bowel Disease
+0.532
+0.444
+0.356
+0.249
+0.245
+HCC054
+Necrotizing Fasciitis
+9.981
+9.883
+9.868
+9.923
+9.925
+HCC055
+Bone/Joint/Muscle Infections/Necrosis
+5.231
+5.080
+5.019
+5.016
+5.016
+HCC056
+Rheumatoid Arthritis and Specified Autoimmune Disorders
+1.372
+1.265
+1.169
+1.076
+1.072
+HCC057
+Systemic Lupus Erythematosus and Other Autoimmune Disorders
+0.658
+0.562 
+0.458 
+0.335
+0.330
+HCC061
+Osteogenesis Imperfecta and Other Osteodystrophies
+2.433
+2.281
+2.177
+2.083
+2.080
+HCC062
+Congenital/Developmental Skeletal and Connective Tissue Disorders
+2.433
+2.281
+2.177
+2.083
+2.080
+HCC063
+Cleft Lip/Cleft Palate
+1.904
+1.780
+1.690
+1.604
+1.601
+HCC066
+Hemophilia
+70.009
+69.723
+69.594
+69.568
+69.568
+HCC067
+Myelodysplastic Syndromes and Myelofibrosis
+14.086
+13.994
+13.949
+13.929
+13.928
+HCC068
+Aplastic Anemia
+14.086
+13.994
+13.949
+13.929
+13.928
+HCC069
+Acquired Hemolytic Anemia, Including Hemolytic Disease of Newborn
+14.086
+13.994
+13.949
+13.929
+13.928
+HCC070
+Sickle Cell Anemia (Hb-SS)
+2.795
+2.679
+2.593
+2.514
+2.511
+HCC071
+Beta Thalassemia Major
+2.795
+2.679
+2.593
+2.514
+2.511
+HCC073
+Combined and Other Severe Immunodeficiencies
+4.770
+4.683
+4.639
+4.615
+4.614
+HCC074
+Disorders of the Immune Mechanism
+4.770
+4.683
+4.639
+4.615
+4.614
+HCC075
+Coagulation Defects and Other Specified Hematological Disorders
+2.606
+2.537
+2.486
+2.442
+2.441
+HCC081
+Drug Use with Psychotic Complications
+2.622
+2.446
+2.303
+2.144
+2.138
+HCC082
+Drug Use Disorder, Moderate/Severe, or Drug Use with Non-Psychotic Complications
+2.622
+2.446
+2.303
+2.144
+2.138
+HCC083
+Alcohol Use with Psychotic Complications
+1.224
+1.095
+0.995
+0.891
+0.887
+HCC084
+Alcohol Use Disorder, Moderate/Severe, or Alcohol Use with Specified Non-Psychotic Complications
+1.224
+1.095
+0.995
+0.891
+0.887
+HCC087_1
+Schizophrenia
+2.622
+2.445
+2.323
+2.206
+2.202
+HCC087_2
+Delusional and Other Specified Psychotic Disorders, Unspecified Psychosis
+2.622
+2.445
+2.323
+2.206
+2.202
+HCC088
+Major Depressive Disorder, Severe, and Bipolar Disorders
+1.379
+1.249
+1.132
+1.003
+0.999
+HCC090
+Personality Disorders
+1.072
+0.962
+0.846
+0.717
+0.712
+HCC094
+Anorexia/Bulimia Nervosa
+2.437
+2.303
+2.202
+2.109
+2.106
+HCC096
+Prader-Willi, Patau, Edwards, and Autosomal Deletion Syndromes
+6.816
+6.773
+6.748
+6.715
+6.715
+HCC097
+Down Syndrome, Fragile X, Other Chromosomal Anomalies, and Congenital Malformation Syndromes
+1.448
+1.371
+1.307
+1.243
+1.241
+HCC102
+Autistic Disorder
+1.236
+1.128
+1.016
+0.899
+0.895
+HCC103
+Pervasive Developmental Disorders, Except Autistic Disorder
+1.072
+0.962
+0.846
+0.717
+0.712
+HCC106
+Traumatic Complete Lesion Cervical Spinal Cord
+11.562
+11.447
+11.385
+11.344
+11.343
+HCC107
+Quadriplegia
+11.562
+11.447
+11.385
+11.344
+11.343
+HCC108
+Traumatic Complete Lesion Dorsal Spinal Cord
+7.825
+7.689
+7.610
+7.549
+7.547
+HCC109
+Paraplegia
+7.825
+7.689
+7.610
+7.549
+7.547
+HCC110
+Spinal Cord Disorders/Injuries
+5.342
+5.158
+5.057
+4.987
+4.984
+HCC111
+Amyotrophic Lateral Sclerosis and Other Anterior Horn Cell Disease
+3.336
+3.164
+3.042
+2.918
+2.913
+HCC112
+Quadriplegic Cerebral Palsy
+1.238
+1.070
+0.963
+0.872
+0.870
+HCC113
+Cerebral Palsy, Except Quadriplegic
+0.790
+0.708
+0.633
+0.547
+0.544
+HCC114
+Spina Bifida and Other Brain/Spinal/Nervous System Congenital Anomalies
+1.374
+1.273
+1.197
+1.120
+1.117
+HCC115
+Myasthenia Gravis/Myoneural Disorders and Guillain-Barre Syndrome/Inflammatory and Toxic Neuropathy
+5.075
+4.987
+4.942
+4.916
+4.916
+HCC117
+Muscular Dystrophy
+1.763
+1.654
+1.559
+1.447
+1.442
+HCC118
+Multiple Sclerosis
+2.962
+2.806
+2.695
+2.592
+2.589
+HCC119
+Parkinson's, Huntington's, and Spinocerebellar Disease, and Other Neurodegenerative Disorders
+1.763
+1.654
+1.559
+1.447
+1.442
+HCC120
+Seizure Disorders and Convulsions
+1.068
+0.955
+0.861
+0.763
+0.759
+HCC121
+Hydrocephalus
+8.307
+8.209
+8.151
+8.116
+8.116
+HCC122
+Coma, Brain Compression/Anoxic Damage
+7.874
+7.753
+7.697
+7.679
+7.679
+HCC123
+Narcolepsy and Cataplexy
+5.839
+5.684
+5.563
+5.448
+5.444
+HCC125
+Respirator Dependence/Tracheostomy Status
+21.892
+21.866
+21.900
+21.994
+21.997
+HCC126
+Respiratory Arrest
+6.658
+6.534
+6.520
+6.581
+6.585
+HCC127
+Cardio-Respiratory Failure and Shock, Including Respiratory Distress Syndromes
+6.658
+6.534
+6.520
+6.581
+6.585
+HCC128
+Heart Assistive Device/Artificial Heart
+26.896
+26.755
+26.704
+26.706
+26.708
+HCC129
+Heart Transplant Status/Complications
+26.896
+26.755
+26.704
+26.706
+26.708
+HCC130
+Heart Failure
+2.449
+2.372
+2.329
+2.303
+2.303
+HCC131
+Acute Myocardial Infarction
+6.445
+6.227
+6.150
+6.160
+6.163
+HCC132
+Unstable Angina and Other Acute Ischemic Heart Disease
+4.805
+4.590
+4.495
+4.441
+4.441
+HCC135
+Heart Infection/Inflammation, Except Rheumatic
+5.740
+5.651
+5.598
+5.557
+5.557
+HCC137
+Hypoplastic Left Heart Syndrome and Other Severe Congenital Heart Disorders
+2.586
+2.489
+2.409
+2.341
+2.338
+HCC138
+Major Congenital Heart/Circulatory Disorders
+2.586
+2.489
+2.409
+2.341
+2.338
+HCC139
+Atrial and Ventricular Septal Defects, Patent Ductus Arteriosus, and Other Congenital Heart/Circulatory Disorders
+2.586
+2.489
+2.409
+2.341
+2.338
+HCC142
+Specified Heart Arrhythmias
+2.265
+2.157
+2.070
+1.983
+1.983
+HCC145
+Intracranial Hemorrhage
+6.694
+6.498
+6.395
+6.327
+6.327
+HCC146
+Ischemic or Unspecified Stroke
+1.586
+1.484
+1.427
+1.373
+1.372
+HCC149
+Cerebral Aneurysm and Arteriovenous Malformation
+2.546
+2.415
+2.323
+2.233
+2.230
+HCC150
+Hemiplegia/Hemiparesis
+4.176
+4.091
+4.072
+4.095
+4.097
+HCC151
+Monoplegia, Other Paralytic Syndromes
+2.985
+2.887
+2.823
+2.764
+2.762
+HCC153
+Atherosclerosis of the Extremities with Ulceration or Gangrene
+8.710
+8.634
+8.643
+8.727
+8.731
+HCC154
+Vascular Disease with Complications
+6.654
+6.542
+6.492
+6.474
+6.474
+HCC156
+Pulmonary Embolism and Deep Vein Thrombosis
+3.510
+3.396
+3.316
+3.234
+3.232
+HCC158
+Lung Transplant Status/Complications
+22.123
+22.027
+22.002
+22.028
+22.028
+HCC159
+Cystic Fibrosis
+4.872
+4.653
+4.513
+4.410
+4.407
+HCC160
+Chronic Obstructive Pulmonary Disease, Including Bronchiectasis
+0.771
+0.673
+0.576
+0.472
+0.468
+HCC161_1
+Severe Asthma
+0.771
+0.673
+0.576
+0.472
+0.468
+HCC161_2
+Asthma, Except Severe
+0.771
+0.673
+0.576
+0.472
+0.468
+HCC162
+Fibrosis of Lung and Other Lung Disorders
+1.934
+1.853
+1.793
+1.729
+1.727
+HCC163
+Aspiration and Specified Bacterial Pneumonias and Other Severe Lung Infections
+6.528
+6.521
+6.538
+6.580
+6.581
+HCC174
+Exudative Macular Degeneration
+1.570
+1.440
+1.327
+1.197
+1.193
+HCC183
+Kidney Transplant Status/Complications
+6.028
+5.868
+5.765
+5.671
+5.673
+HCC184
+End Stage Renal Disease
+23.533
+23.284
+23.237
+23.356
+23.397
+HCC187
+Chronic Kidney Disease, Stage 5
+0.953
+0.912
+0.900
+0.910
+0.911
+HCC188
+Chronic Kidney Disease, Severe (Stage 4)
+0.953
+0.912
+0.900
+0.910
+0.911
+HCC203
+Ectopic and Molar Pregnancy
+2.088
+1.879
+1.688
+1.430
+1.421
+HCC204
+Miscarriage with Complications
+0.848
+0.732
+0.579
+0.375
+0.365
+HCC205
+Miscarriage with No or Minor Complications
+0.848
+0.732
+0.579
+0.375
+0.365
+HCC207
+Pregnancy with Delivery with Major Complications
+4.049
+3.741
+3.498
+3.132
+3.123
+HCC208
+Pregnancy with Delivery with Complications
+4.049
+3.741
+3.498
+3.132
+3.123
+HCC209
+Pregnancy with Delivery with No or Minor Complications
+2.881
+2.650
+2.411
+1.973
+1.956
+HCC210
+(Ongoing) Pregnancy without Delivery with Major Complications
+1.240
+1.074
+0.871
+0.634
+0.623
+HCC211
+(Ongoing) Pregnancy without Delivery with Complications
+0.834
+0.699
+0.523
+0.348
+0.340
+HCC212
+(Ongoing) Pregnancy without Delivery with No or Minor Complications
+0.365
+0.274
+0.172
+0.103
+0.100
+HCC217
+Chronic Ulcer of Skin, Except Pressure
+1.879
+1.795
+1.748
+1.715
+1.715
+HCC218
+Extensive Third Degree Burns
+18.976
+18.728
+18.594
+18.523
+18.520
+HCC219
+Major Skin Burn or Condition
+2.884
+2.767
+2.683
+2.612
+2.609
+HCC223
+Severe Head Injury
+15.439
+15.331
+15.260
+15.212
+15.210
+HCC226
+Hip and Pelvic Fractures
+8.537
+8.317
+8.230
+8.224
+8.225
+HCC228
+Vertebral Fractures without Spinal Cord Injury
+4.959
+4.798
+4.692
+4.599
+4.596
+HCC234
+Traumatic Amputations and Amputation Complications
+5.447
+5.311
+5.258
+5.255
+5.256
+HCC251
+Stem Cell, Including Bone Marrow, Transplant Status/Complications
+25.813
+25.812
+25.822
+25.845
+25.846
+HCC253
+Artificial Openings for Feeding or Elimination
+7.305
+7.240
+7.229
+7.258
+7.259
+HCC254
+Amputation Status, Upper Limb or Lower Limb
+1.987
+1.884
+1.830
+1.795
+1.795

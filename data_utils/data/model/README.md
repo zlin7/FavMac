@@ -1,0 +1,1 @@
+Download from https://www.cms.gov/medicare/health-plans/medicareadvtgspecratestats/risk-adjustors/2023-model-software/icd-10-mappings
